@@ -1,7 +1,7 @@
 <p align="center">
-  <h1>
+  <b>
     GDSC UEM Newsletter
-  </h1>
+  </b>
 </p>
 
 Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
