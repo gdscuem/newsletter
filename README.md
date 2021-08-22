@@ -3,8 +3,8 @@
 Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
 
 <p align="center">
-<a href="#o-que-e">O que é?</a> |
-<a href="#edicoes">Edições</a> |
+<a href="#o-que-é">O que é?</a> |
+<a href="#edições">Edições</a> |
 <a href="#como-contribuir">Como contribuir</a>
 </p>
 
