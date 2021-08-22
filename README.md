@@ -40,4 +40,7 @@ Feito com 💙 pelo GDSC UEM.
 <p align="center">
   <a href="https://twitter.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-1DA1F2?logo=Twitter" alt="dscuem - Follow"></a>
   <a href="https://instagram.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-E4405F?logo=Instagram" alt="dscuem - Follow"></a>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/DSC-Eduardo-Mondlane-University/newsletter?style=social">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DSC-Eduardo-Mondlane-University/newsletter?style=social">
+
 </p>
