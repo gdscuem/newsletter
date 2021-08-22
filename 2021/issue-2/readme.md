@@ -41,7 +41,7 @@ Aqui está uma tour muito nice pela arquitetura de renderização do Chrome e co
 <br>
 
 ## 🎯  **Web**
-#### **⚡ GitHub1s: um segundo para ler o código do GitHub com VS Code**:**
+#### **⚡ GitHub1s: um segundo para ler o código do GitHub com VS Code**
 
 Ferramenta incrível! Em qualquer repo, basta alterar o [github.com](http://github.com/) para [github1s.com](http://github1s.com/).
 
