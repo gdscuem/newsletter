@@ -21,7 +21,7 @@ Estaremos aqui a cada três semanas trazendo conteúdo para te manter atualizado
 
 ## 🎯  **Design**
 
-#### Coolors - O gerador de esquemas de cores super rápido!
+#### **Coolors - O gerador de esquemas de cores super rápido!**
 
 A maioria de nós não é bom em escolher cores do zero, é por isso que contamos com ferramentas como essa que nos ajuda a gerar uma paleta de cores.
 
