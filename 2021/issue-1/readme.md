@@ -111,7 +111,7 @@ Sera que nos esquecemos da visão inicial da web? Aqui está um ótimo post sobr
 
 ## 🎯  Projecto em Destaque
 
-###  Educar
+####  Educar
 
 Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.
 
