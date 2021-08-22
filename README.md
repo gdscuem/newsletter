@@ -1,8 +1,9 @@
-  <h1 align="center">
+  <h1 align="left">
     GDSC UEM Newsletter
   </h1>
   
-![Logo da Newsletter](https://user-images.githubusercontent.com/50568515/130362231-2d2f81a1-e3a5-48bf-8923-308ab0ac80eb.png)
+ <img src="https://user-images.githubusercontent.com/50568515/130362231-2d2f81a1-e3a5-48bf-8923-308ab0ac80eb.png" width="1000px" /> 
+
 
 Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
 
