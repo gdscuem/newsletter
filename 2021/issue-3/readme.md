@@ -69,7 +69,7 @@ Uma leitura interessante sobre performance na Web, que é algo que nós desenvol
 
 No mês passado, compartilhamos a primeira amostra do Android 12, um primeiro olhar para a próxima versão do Android. Hoje trazemos a próxima construção de marco no lançamento deste ano.
 
-> 📎 [android-developers.googleblog.com] http://bit.ly/dscnewsletter-android12-preview2)
+> 📎 [android-developers.googleblog.com](http://bit.ly/dscnewsletter-android12-preview2)
 
 #### **⚡ 15 Tendencias para o desenvolvimento de Apps Mobile em 2021**
 
