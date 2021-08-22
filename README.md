@@ -1,7 +1,7 @@
   <h1 align="center">
     GDSC UEM Newsletter
   </h1>
-![Artboard 12](https://user-images.githubusercontent.com/50568515/130362231-2d2f81a1-e3a5-48bf-8923-308ab0ac80eb.png)
+![Artboard_12](https://user-images.githubusercontent.com/50568515/130362231-2d2f81a1-e3a5-48bf-8923-308ab0ac80eb.png)
 
 Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
 
