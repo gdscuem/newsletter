@@ -86,12 +86,12 @@ A alternativa de código aberto ao Firebase.
 
 O ponto de partida para explorar a computação quântica é entender que, embora muitos dos princípios sejam contra-intuitivos, o universo clássico que conhecemos e amamos é apenas uma sombra da estrutura quântica da realidade. Para ter uma ideia dessa diferença fundamental, examinaremos um exemplo que ajuda a ilustrar o poder da computação quântica
 
-> 📎 [stackoverflow.blog]https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
+> 📎 [stackoverflow.blog](https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
 
 #### **⚡ Evergreen Skills for Software Developers**
 
 Estruturas e tendências vêm e vão, mas algumas habilidades serão úteis para sempre! Esta é uma lista muito útil e completa dessas habilidades "perenes" que você deve ter como um desenvolvedor da web.
-> 📎 [github.com/romenrg/]https://github.com/romenrg/evergreen-skills-developers/?ref=jonas.io)
+> 📎 [github.com/romenrg/](https://github.com/romenrg/evergreen-skills-developers/?ref=jonas.io)
 
 #### **⚡ Uma olhada por debaixo dos panos: como as branches funcionam no Git**
 
