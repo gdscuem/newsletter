@@ -14,11 +14,6 @@
 [![Destaque - Educar](https://img.shields.io/badge/Destaque-Educar-yellow)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 
 </span>
-<p align="center">
-<a href="#o-que-é">O que é?</a> |
-<a href="#edições">Edições</a> |
-<a href="#como-contribuir">Como contribuir</a>
-</p>
 
 # O que é?
 A `GDSC UEM Newsletter` é um projeto de partilha de conteúdo do `GDSC Eduardo Mondlane University`. Uma newsletter que é enviada a cada três semanas, produzida pela nossa team apaixonada por programação e tecnologia. A ideia é passar as melhores informações sobre temas recorrentes envolvendo a nossa cultura, educação e tecnologia.
