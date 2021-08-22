@@ -2,7 +2,7 @@
 
 ![Notion_Issue_2](https://user-images.githubusercontent.com/50568515/130361788-3e8584d4-a165-45ca-a290-8e8951ba53b0.png)
 
-# **Issue #3 - GDSC UEM Newsletter**
+# **Issue #1 - GDSC UEM Newsletter**
 
 <span align="center">
 
@@ -12,115 +12,110 @@
 
 </span>
 
-Olá Malta, sejam bem vindos à mais uma Issue da Newsletter da comunidade DSC UEM, a Issue #3.
+Hey pessoal espero que estejam todos bem, esta é a issue #1 da newsletter do DSC.
 
-Estaremos aqui a cada três semanas trazendo conteúdo para te manter atualizado sobre aquilo que mais gostamos: Tecnologia e educação.
-
----
-
-
-## 🎯  **Design**
-
-#### **Coolors - O gerador de esquemas de cores super rápido!**
-
-A maioria de nós não é bom em escolher cores do zero, é por isso que contamos com ferramentas como essa que nos ajuda a gerar uma paleta de cores.
-
-> 📎 [https://coolors.co](https://coolors.co/?ref=jonas.io)
-
-#### Fontes da web em 2021
-
-Tipografia conta em 95% do web design. Esta pesquisa foca nas melhores práticas no uso de fontes em sites de alta performance em 2021.
-
-> 📎 [https://leerob.io](https://leerob.io/blog/fonts?ref=jonas.io)
-
-#### Free Favicon Maker — Crie favicons SVG e PNG em segundos!
-
-Um pequeno aplicativo da web. Útil e ótimo quando você quer dar um belo toque final em pequenos projetos!
-
-> 📎 [https://formito.com/](https://formito.com/tools/favicon?ref=jonas.io)
+Estaremos aqui a cada três semanas trazendo conteúdo para te manter actualizado sobre aquilo que mais gostamos: Tecnologia e educação.
 
 ---
 
-## 🎯  **Web**
+# 🎯  **Design**
 
-####  **Stranger Things, JavaScript Edition**
+####  700+ CSS Icons, Customizable, Retina Ready & AP
 
-Todos sabemos que JavaScript é uma linguagem cheia de peculiaridades e características estranhas, que ninguém realmente entende. Aqui está um artigo interessante e engraçado sobre as partes estranhas da nossa amada linguagem.
+Uma enorme coleção de + 700 ícones para usar em muitos formatos diferentes, o que torna este conjunto de ícones realmente útil e um grande candidato para a sua próxima app!
 
-📎 [https://livecodestream.dev/post/stranger-things-javascript-edition/](https://livecodestream.dev/post/stranger-things-javascript-edition/)
+> 📎 [https://css.gg/](https://css.gg/)
 
-####  **Leading-Trim: The Future of Digital Typesetting**
+####  **8 (mais) dicas para melhorar rapidamente seus UIs**
 
-leading-trim é uma nova propriedade CSS que será enorme, pelo menos se você deseja espaçar seus layouts com precisão e facilidade. Aqui está tudo acerca dessa nova propriedade.
+O design de UI (interface do usuário) é muito difícil, mas também muito importante. Felizmente, ajustes simples podem ter grandes impactos positivos em seus projectos. Aqui está uma lista de 8 deles, e também um link para a parte 1 deste post, com ainda mais dicas.
 
-📎 [http://bit.ly/dscnewsletter-leading-trim](http://bit.ly/dscnewsletter-leading-trim)
+> 📎 [https://uxdesign.cc/](https://uxdesign.cc/8-more-tips-to-quickly-improve-your-ui-designs-368fb3bea5ba)
 
-####  **Quão rápido seu site deve carregar?**
+####   **Por que usar SVG?**
 
-Uma leitura interessante sobre performance na Web, que é algo que nós desenvolvedores nunca deveríamos tomar por garantido!
+Se és Desenvolver web provavelmente já tiveste de carregar um ficheiro de 200Kb porque precisavas de um icon de pesquisa, ou social media de 20 bytes para o teu menu ou tinhas uma ilustração e gostarias de colocar uma animação bem “nice”,  mas não podias porque era simplesmente um PNG ou JPEG. Se passaste por um desses problemas (ou talvez piores) com certeza deves experimentar o SVG
 
-📎 [http://bit.ly/dscnewsletter-web-performance](http://bit.ly/dscnewsletter-web-performance)
-
----
-
-## 🎯  Mobile
-
-#### **A visualização do Desenvolvedor 2 do Android 12 Está Disponível**
-
-No mês passado, compartilhamos a primeira amostra do Android 12, um primeiro olhar para a próxima versão do Android. Hoje trazemos a próxima construção de marco no lançamento deste ano.
-
-📎 [http://bit.ly/dscnewsletter-android12-preview2](http://bit.ly/dscnewsletter-android12-preview2)
-
-####  **15 Tendencias para o desenvolvimento de Apps Mobile em 2021**
-
-A industria de desenvolvimento mobile esta evoluindo continuamente. Ficar actualizado com as tendencias mais recentes e sem duvidas um dos aspectos mais cruciais para obter sucesso nesta area. Voce esta preparado para as mudancas que serao verificadas no desenvolvimento mobile em 2021?
-
-📎 [https://buildfire.com/mobile-app-development-trends/](https://buildfire.com/mobile-app-development-trends/)
-
-#### **Como criar animacoes que atendam às necessidades dos usuários**
-
-Pense em como raramente você encontra um aplicativo ou site que não tenha pelo menos um elemento de interface animado.
-
-Neste artigo, sera discutido por que você precisa de animações, o que considerar ao criá-las e como fazer animações para aplicativos mobile do ponto de vista de um designer.
-
-📎 [https://yalantis.com/blog/how-to-create-mobile-ui-animations-that-meet-users-needs/](https://yalantis.com/blog/how-to-create-mobile-ui-animations-that-meet-users-needs/)
+> 📎  [https://willianjusten.com.br/](https://willianjusten.com.br/por-que-usar-svg/)
 
 ---
 
-## 🎯  Outros
+# 🎯  **Web**
 
-####  **Build, compile, run: Um curso intensivo em classpaths**
+####  **Glassmorphism nas UI’s**
 
-Se você escreve codigo em Java ou em qualquer linguagem JVM como Kotlin ou Groovy, esta é uma ótima introdução aos fundamentos de classpaths e classloadings.
+No ano passado tivemos Neomorfismo, este ano parece que temos Glassmorphism como uma nova tendência de design (que eu gosto muito mais). Este post detalha sua aparência e como pode ser implementado. Dê uma olhada!
 
-📎 [https://dev.to/autonomousapps/build-compile-run-a-crash-course-in-classpaths-f4g](https://dev.to/autonomousapps/build-compile-run-a-crash-course-in-classpaths-f4g)
+> 📎   [https://uxdesign.cc/](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9?ref=jonas.io&gi=25c4be9328e3)
 
-####  A história improvável do #100DaysOfCode Challenge e por que você deveria experimentá-lo em 2021:
+####   **Um guia completo de Design para Dark Mode na Web**
 
-Talvez você já tenha ouvido falar (ou até mesmo participado) do desafio # 100DaysOfCode. Foi assim que nasceu o desafio e por que você mesmo deveria tentar!
+O “Dark Mode” está em toda parte nestes dias, Bem, este post mostra algumas opções técnicas e de design para implementar o modo escuro para si mesmo.
 
-📎 [https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/?ref=jonas.io](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/?ref=jonas.io)
+> 📎 [https://css-tricks.com/](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 
-#### **Out of the Matrix: Primeiros dias da web (1991)**
+####  **React, Vue, Angular, conheça suas vantagens e desvantagens e qual é melhor para seus projectos**
 
-Sera que nos esquecemos da visão inicial da web? Aqui está um ótimo post sobre como a web surgiu, de alguém que estava lá no início.
+O javascript é a linguagem mais popular no mundo de acordo com o github e o Stack Overflow em 2019  e a linguagem de Programação com mais frameworks, e com tantas opções boas disponíveis é difícil saber por onde começar mas não é o fim do mundo e para te ajudar nessa decisão preparamos esses guias:
 
-📎 [https://blog.yax.com/posts/early-days-of-the-web-1991/](https://blog.yax.com/posts/early-days-of-the-web-1991/)
+> 📎 [https://medium.com/](https://medium.com/@henrique.freire/react-vue-angular-conhe%C3%A7a-suas-vantagens-e-desvantagens-e-qual-%C3%A9-melhor-para-seus-projetos-53734bb3d37f)
 
----
-
-## 🎯  Projecto em Destaque
-
-####  Educar
-
-Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.
-
-📎 [https://educar.co.mz/](https://educar.co.mz/)
+> 📎 [https://www.codeinwp.com/](https://www.codeinwp.com/blog/angular-vs-vue-vs-react/)
 
 ---
 
-Então malta, esse é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [https://bit.ly/dscnewsletter-feedback](https://bit.ly/dscnewsletter-feedback)
+# 🎯  **Mobile**
 
-Veja todas as edições da Newsletter pelo link: [http://bit.ly/dscnewsletter-collection](http://bit.ly/dscnewsletter-collection)
+####  Como escrevi meu primeiro aplicativo Android full-stack
+
+Este é um ótimo explicador sobre como construir um aplicativo Android do zero usando Java, XML e APIs.
+
+> 📎  [https://dev.to/](https://dev.to/varuns924/how-i-wrote-my-first-full-stack-android-app-2c11)
+
+####  **Conhecendo o Flutter**
+
+Flutter é um framework para desenvolvimento mobile da Google que permite desenvolver aplicações nativas IOS e Android usando um único código. Este artigo, aliás, esta série de artigos irá te guiar para dar os primeiros passos com esta tecnologia.
+
+> 📎  [https://medium.com/](https://medium.com/android-dev-moz/flutter-conhecendo-o-flutter-70d31772afa5)
+
+####  **Configurando ambiente de desenvolvimento Flutter**
+
+Este guia irá te mostrar como configurar o seu ambiente para desenvolver apps com Flutter, desde a instalação da SDK até a criação de um emulador no Android Studio, tanto no Windows, Linux ou MacOS.
+
+> 📎  [https://www.treinaweb.com.br/](https://www.treinaweb.com.br/blog/configurando-ambiente-de-desenvolvimento-flutter/)
+
+---
+
+# 🎯  **Outros**
+
+####   **Como colocar modelos Machine Learning models em produção**
+
+A pesquisa descobriu que quase 90 dos modelos de aprendizado de máquina desenvolvidos por empresas nunca chegam à produção. Compartilhamos algumas dicas sobre como evitar armadilhas e realmente implantar seu ML
+
+> 📎  [https://stackoverflow.blog/](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)
+
+####  **Users are… / People are…**
+
+Esta é uma declaração simples, mas poderosa, sobre como lembrar que seus usuários não são apenas usuários: eles também são pessoas
+
+> 📎  [https://www.ted-hunt.com/](https://www.ted-hunt.com/USERS-PEOPLE.html)
+
+####   **Lições aprendidas com minha jornada como desenvolvedor Freelancer**
+
+Um desenvolvedor freelancer compartilha sua jornada de como aprendeu a codificar através de uma série de lições aprendidas ao longo do caminho.
+
+📢 English
+
+> 📎 [https://www.freecodecamp.org/](https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer/)
+
+####   **Git e Github para iniciantes**
+
+Com certeza já ouviste falar de GitHub (ou não -.-) e ainda não tiveste tempo para entender afinal o que é Git? O que é Github?, porque todas IDE 's vem com Git?.
+
+> 📎  [https://youtube.com/](https://youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+
+---
+
+Então malta, esse é o conteúdo que tínhamos preparado para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter pelo link: [https://bit.ly/dscnewsletter-feedback](https://bit.ly/dscnewsletter-feedback).
 
 Feito com 💙 pelo DSC UEM.
