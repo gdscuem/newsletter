@@ -1,10 +1,9 @@
 
+  
  <img src="https://user-images.githubusercontent.com/50568515/130362231-2d2f81a1-e3a5-48bf-8923-308ab0ac80eb.png" width="1000px" /> 
   <h1 align="left">
     GDSC UEM Newsletter
   </h1>
-  
-
 > Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
 
 <span align="center">
@@ -15,10 +14,10 @@
 
 </span>
 
-# O que é?
+## O que é?
 A `GDSC UEM Newsletter` é um projeto de partilha de conteúdo do `GDSC Eduardo Mondlane University`. Uma newsletter que é enviada a cada três semanas, produzida pela nossa team apaixonada por programação e tecnologia. A ideia é passar as melhores informações sobre temas recorrentes envolvendo a nossa cultura, educação e tecnologia.
 
-# Edições
+## Edições
 **Issue**|**Destaque**| 
 --------|----------------- 
 **Issue #9** | `The Cool Kids Podcast`: Muthiana Code é uma organização sem fins lucrativos que visa o empoderamento das mulheres e engajamento das mesmas nas áreas de STEM & Indústria. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
