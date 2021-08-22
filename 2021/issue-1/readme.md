@@ -21,19 +21,19 @@ Estaremos aqui a cada três semanas trazendo conteúdo para te manter atualizado
 
 ## 🎯  **Design**
 
-### ✅ **Coolors - O gerador de esquemas de cores super rápido!**
+### ✅ Coolors - O gerador de esquemas de cores super rápido!
 
 A maioria de nós não é bom em escolher cores do zero, é por isso que contamos com ferramentas como essa que nos ajuda a gerar uma paleta de cores.
 
-📎 [https://coolors.co](https://coolors.co/?ref=jonas.io)
+> 📎 [https://coolors.co](https://coolors.co/?ref=jonas.io)
 
-### ✅ **Fontes da web em 2021**
+### ✅ Fontes da web em 2021
 
 Tipografia conta em 95% do web design. Esta pesquisa foca nas melhores práticas no uso de fontes em sites de alta performance em 2021.
 
 📎 [https://leerob.io](https://leerob.io/blog/fonts?ref=jonas.io)
 
-### ✅ **Free Favicon Maker — Crie favicons SVG e PNG em segundos!**
+### ✅ Free Favicon Maker — Crie favicons SVG e PNG em segundos!
 
 Um pequeno aplicativo da web. Útil e ótimo quando você quer dar um belo toque final em pequenos projetos!
 
