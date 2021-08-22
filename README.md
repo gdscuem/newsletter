@@ -11,7 +11,7 @@ Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issu
 </p>
 
 # O que é?
-A “Newsletter” é um projeto de partilha de conteúdo do GDSC UEM. Uma newsletter que é enviada a cada três semanas, produzida pela nossa team apaixonada por programação e tecnologia. A ideia é passar as melhores informações sobre temas recorrentes envolvendo a nossa cultura, educação e tecnologia.
+A `GDSC UEM Newsletter` é um projeto de partilha de conteúdo do `GDSC Eduardo Mondlane University`. Uma newsletter que é enviada a cada três semanas, produzida pela nossa team apaixonada por programação e tecnologia. A ideia é passar as melhores informações sobre temas recorrentes envolvendo a nossa cultura, educação e tecnologia.
 
 # Edições
 [Issue #1](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1) <br/>
