@@ -2,11 +2,11 @@
 
 ![Notion_Issue_2](https://user-images.githubusercontent.com/50568515/130361788-3e8584d4-a165-45ca-a290-8e8951ba53b0.png)
 
-# **GDSC UEM Newsletter - Issue #3**
+# **Issue #3 - GDSC UEM Newsletter**
 
 <span align="center">
 
-[![Issue - #01](https://img.shields.io/badge/Issue-%2310-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
+[![Issue - #01](https://img.shields.io/badge/Issue-%2301-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 [![Data: - 30-09-2021](https://img.shields.io/badge/Data%3A-30--09--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 [![Destaque - Educar](https://img.shields.io/badge/Destaque-Educar-yellow)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 
