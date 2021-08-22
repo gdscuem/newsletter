@@ -31,13 +31,13 @@ A maioria de nós não é bom em escolher cores do zero, é por isso que contamo
 
 Tipografia conta em 95% do web design. Esta pesquisa foca nas melhores práticas no uso de fontes em sites de alta performance em 2021.
 
-📎 [https://leerob.io](https://leerob.io/blog/fonts?ref=jonas.io)
+> 📎 [https://leerob.io](https://leerob.io/blog/fonts?ref=jonas.io)
 
 #### Free Favicon Maker — Crie favicons SVG e PNG em segundos!
 
 Um pequeno aplicativo da web. Útil e ótimo quando você quer dar um belo toque final em pequenos projetos!
 
-📎 [https://formito.com/](https://formito.com/tools/favicon?ref=jonas.io)
+> 📎 [https://formito.com/](https://formito.com/tools/favicon?ref=jonas.io)
 
 ---
 
