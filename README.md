@@ -19,10 +19,10 @@
 A `GDSC UEM Newsletter` é um projeto de partilha de conteúdo do `GDSC Eduardo Mondlane University`. Uma newsletter que é enviada a cada três semanas, produzida pela nossa team apaixonada por programação e tecnologia. A ideia é passar as melhores informações sobre temas recorrentes envolvendo a nossa cultura, educação e tecnologia.
 
 # Edições
-Issue|Destaque| 
+**Issue**|**Destaque**| 
 --------|----------------- 
 **Issue #9** | `The Cool Kids Podcast`: Muthiana Code é uma organização sem fins lucrativos que visa o empoderamento das mulheres e engajamento das mesmas nas áreas de STEM & Indústria. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
-**Issue #8 **| `Educar`: Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.[📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
+**Issue #8**| `Educar`: Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.[📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
 **Issue #7** | `Inquéritos Salariai:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
 **Issue #6** | `TME Education Mozambique:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.  [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
 **Issue #5** | `Google I/O:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
