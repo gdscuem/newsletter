@@ -2,6 +2,7 @@
 
 # **Issue #2 - GDSC UEM Newsletter**
 
+
 <span align="center">
 
 [![Issue - #01](https://img.shields.io/badge/Issue-%2301-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
