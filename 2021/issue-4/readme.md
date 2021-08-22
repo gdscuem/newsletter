@@ -1,13 +1,14 @@
 
 
-![Notion_Issue_2](https://user-images.githubusercontent.com/50568515/130361788-3e8584d4-a165-45ca-a290-8e8951ba53b0.png)
+![issue #4](https://user-images.githubusercontent.com/50568515/130370800-99a14b0f-6916-433c-a98e-c200312c0b3a.png)
+
 
 # **Issue #3 - GDSC UEM Newsletter**
 
 <span align="center">
 
 [![Issue - #04](https://img.shields.io/badge/Issue-%2304-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
-[![Data: - 00-00-2021](https://img.shields.io/badge/Data%3A-00--01--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
+[![Data: - 04-26-2021](https://img.shields.io/badge/Data%3A-26--04--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 [![Destaque - Revista Dezaine](https://img.shields.io/badge/Destaque-Revista%20Dezaine-yellow)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 
 </span>
