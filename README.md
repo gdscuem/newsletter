@@ -17,4 +17,8 @@ A “Newsletter” é um projeto de partilha de conteúdo do GDSC UEM. Uma newsl
 
 # Como contribuir?
 Você pode contribuir fazendo a palavra da Newsletter chegar até mais pessoas: https://bit.ly/dscuem-newsletter.
-Dê seu feedback acerca do conteúdo da Newsletter, pelo [link](https://bit.ly/dscnewsletter-feedback).
+
+Dê seu feedback acerca do conteúdo da Newsletter [aqui](https://bit.ly/dscnewsletter-feedback).
+
+---
+Feito com 💙 pelo GDSC UEM.
