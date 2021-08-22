@@ -37,3 +37,7 @@ Dê seu feedback acerca do conteúdo da Newsletter [aqui](https://bit.ly/dscnews
 
 ---
 Feito com 💙 pelo GDSC UEM.
+<p align="center">
+  <a href="https://twitter.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-1DA1F2?logo=Twitter" alt="dscuem - Follow"></a>
+  <a href="https://instagram.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-E4405F?logo=Instagram" alt="dscuem - Follow"></a>
+</p>
