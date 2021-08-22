@@ -1,3 +1,7 @@
+# **Issue #3**
+
+![Notion_Issue_2](https://user-images.githubusercontent.com/50568515/130361788-3e8584d4-a165-45ca-a290-8e8951ba53b0.png)
+
 Olá Malta, sejam bem vindos à mais uma Issue da Newsletter da comunidade DSC UEM, a Issue #3.
 
 Estaremos aqui a cada três semanas trazendo conteúdo para te manter atualizado sobre aquilo que mais gostamos: Tecnologia e educação.
