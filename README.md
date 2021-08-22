@@ -5,7 +5,11 @@
  <img src="https://user-images.githubusercontent.com/50568515/130362231-2d2f81a1-e3a5-48bf-8923-308ab0ac80eb.png" width="1000px" /> 
 
 
-Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
+> Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
+
+[![Issue - #10](https://img.shields.io/badge/Issue-%2310-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
+[![Data: - 30-08-2021](https://img.shields.io/badge/Data%3A-30--08--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
+[![Destaque - Educar](https://img.shields.io/badge/Destaque-Educar-yellow)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 
 <p align="center">
 <a href="#o-que-é">O que é?</a> |
