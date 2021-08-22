@@ -1,4 +1,8 @@
-# GDSC UEM Newsletter
+<p align="center">
+  <h1>
+    GDSC UEM Newsletter
+  </h1>
+</p>
 
 Hey pessoal espero que estejam todos bem, esta é uma coleção de todas as issues da Newsletter do GDSC UEM.
 
