@@ -29,6 +29,19 @@ Issue #3 | Educar | [Issue #3](https://github.com/DSC-Eduardo-Mondlane-Universit
 Issue #2 | Muthiana Code | [Issue #2](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-2)
 Issue #1 | PaymentsDS | [Issue #1](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/issue-1)
 
+
+# Edições
+Issue|Destaque| 
+--------|----------------- 
+Issue #9 | `The Cool Kids Podcast`: Muthiana Code é uma organização sem fins lucrativos que visa o empoderamento das mulheres e engajamento das mesmas nas áreas de STEM & Indústria.
+Issue #8 | `Educar`: Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. 
+Issue #7 | `Inquéritos Salariai:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. 
+Issue #6 | `TME Education Mozambique:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. 
+Issue #5 | `Google I/O:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. 
+Issue #4 | `Revista Dezaine:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.   
+Issue #3 | `Educar:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. 
+Issue #2 | `Muthiana Code:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. 
+Issue #1 | `PaymentsDS:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.   
 # Como contribuir?
 Você pode contribuir fazendo a palavra da Newsletter chegar até mais pessoas: https://bit.ly/dscuem-newsletter.
 
