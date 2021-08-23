@@ -1,6 +1,6 @@
 
+![image](https://user-images.githubusercontent.com/50568515/130375156-a3ab8d26-b0ec-480b-96f2-b9fabec58cc5.png)
 
-![Notion_Issue_2](https://user-images.githubusercontent.com/50568515/130361788-3e8584d4-a165-45ca-a290-8e8951ba53b0.png)
 
 # **Issue #1 - GDSC UEM Newsletter**
 
