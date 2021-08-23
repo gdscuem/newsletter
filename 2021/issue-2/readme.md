@@ -5,7 +5,7 @@
 <span align="center">
 
 [![Issue - #02](https://img.shields.io/badge/Issue-%2302-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
-[![Data: - 01-03-2021](https://img.shields.io/badge/Data%3A-30--09--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
+[![Data: - 01-03-2021](https://img.shields.io/badge/Data%3A-00--01--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 [![Destaque - Muthiana Code](https://img.shields.io/badge/Destaque-Muthiana%20Code-yellow)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
 
 </span>
