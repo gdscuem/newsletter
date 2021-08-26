@@ -130,7 +130,7 @@ A campanha do Dia Internacional da Identidade (ID-Day) pela ID4Africa na 4ª Reu
 
 Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [https://bit.ly/dscnewsletter-feedback](https://bit.ly/dscnewsletter-feedback)
 
-Partilhe esta Issue com um amigo: [http://bit.ly/dscuem-newsletter](https://bit.ly/dscuem-newsletter7)8
+Partilhe esta Issue com um amigo: [http://bit.ly/dscuem-newsletter8](https://bit.ly/dscuem-newsletter8)
 
 Veja todas as edições da Newsletter pelo link: [http://bit.ly/dscnewsletter-collection](http://bit.ly/dscnewsletter-collection)
 
