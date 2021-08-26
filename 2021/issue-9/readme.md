@@ -20,23 +20,23 @@ Estamos aqui a cada três semanas trazendo conteúdo para te manter atualizado s
 
 ####  **⚡ FAK'UGESI, Concurso Anual de Cartaz 2021, Aberto para Artistas Digitais Africanos**
 
-Concurso  promovido pelo Fak'ugesi African Digital Innovation, que é essencialmente um festival que tem como objectivo mostrar e desenvolver habilidades em tecnologia, arte e cultura em África. O festival toma como ponto de partida a ideia de que para que a inovação com tecnologia tenha sucesso, uma forte conexão deve ser feita por meio de práticas culturais africanas e encontros criativos. (fonte: [dezaine.co.mz](dezaine.co.mz/))
+Concurso  promovido pelo Fak'ugesi African Digital Innovation, que é essencialmente um festival que tem como objectivo mostrar e desenvolver habilidades em tecnologia, arte e cultura em África. O festival toma como ponto de partida a ideia de que para que a inovação com tecnologia tenha sucesso, uma forte conexão deve ser feita por meio de práticas culturais africanas e encontros criativos. (fonte: [dezaine.co.mz](https://dezaine.co.mz/))
 
-> [www.dezaine.co.mz](dezaine.co.mz/inicio/fakugesi-concurso-anual-de-cartaz-2021-aberto-para-artistas-digitais-africanos)
+> [www.dezaine.co.mz](https://dezaine.co.mz/inicio/fakugesi-concurso-anual-de-cartaz-2021-aberto-para-artistas-digitais-africanos)
 
-> [fakugesi.co.za](fakugesi.co.za/)
+> [fakugesi.co.za](https://fakugesi.co.za/)
 
 ####  **⚡ Flows: Conheça a nova funcionalidade do Figma**
 
 Recentemente, o Figma trouxe uma nova funcionalidade que alguns de seus concorrentes, como Adobe XD e Sketch, já possuíam: os Flows. Anteriormente, só poderíamos ter um único ponto de início, que normalmente era página inicial ou a página de login. Agora, por meio dessa nova funcionalidade já implementada, podemos ter duas ou mais entradas num único projeto, permitindo que você crie diversos fluxos de navegação no seu produto.
 
-> [www.alura.com.br](alura.com.br/artigos/flows-conheca-a-nova-funcionalidade-do-figma)
+> [www.alura.com.br](https://alura.com.br/artigos/flows-conheca-a-nova-funcionalidade-do-figma)
 
 ####  **⚡ Novo logo da Udemy**
 
 A Udemy decidiu dar mais um passo em direção ao objectivo de se transformar em um espaço inclusivo para todo mundo, e isso se manifesta através de mudanças na sua identidade visual.
 
-> [teach.udemy.com](teach.udemy.com/pt-br/a-new-look/)
+> [teach.udemy.com](https://teach.udemy.com/pt-br/a-new-look/)
 
 ---
 <br>
@@ -48,19 +48,19 @@ A Udemy decidiu dar mais um passo em direção ao objectivo de se transformar em
 
 Tabelas de suporte de navegadores para tecnologias da web modernas.
 
-> [caniuse.com](caniuse.com/)
+> [caniuse.com](https://caniuse.com/)
 
 ####  **⚡ Como criar um plugin WordPress do zero**
 
 Os plug-ins adicionam funcionalidades extra ao seu site WordPress, além do que vem com o núcleo do WordPress. Tudo, desde um calendário de reservas ou slider animado até uma loja online - você pode adicioná-los ao seu site com plug-ins. Neste guia, você vai aprender como criar o seu próprio plugin. Como usar as melhores práticas no desenvolvimento de plug-ins, como fazer com que o código em seu plug-in seja executado e como estruturar o código e os arquivos de seu plug-in.
 
-> [webdesign.tutsplus.com](webdesign.tutsplus.com/tutorials/create-a-custom-wordpress-plugin-from-scratch--net-2668)
+> [webdesign.tutsplus.com](https://webdesign.tutsplus.com/tutorials/create-a-custom-wordpress-plugin-from-scratch--net-2668)
 
 ####  **⚡ Porque é bom que HTML, CSS e JS sejam linguagens diferentes?**
 
 O interessante sobre a web é que você nunca sabe para quem está construindo as coisas exatamente. Mesmo se você mantiver estatísticas. Existem tantos usuários diferentes consumindo conteúdo da web e todos eles possuem diferentes recursos e necessidades. Neste artigo, vamos dar uma olhada em por que é que é bom para as pessoas que HTML, CSS e JS são linguagens separadas.
 
-> [hiddedevries.nl](hiddedevries.nl/en/blog/2020-11-25-why-its-good-for-users-that-html-css-and-js-are-separate-languages/)
+> [hiddedevries.nl](https://hiddedevries.nl/en/blog/2020-11-25-why-its-good-for-users-that-html-css-and-js-are-separate-languages/)
 
 ---
 <br>
@@ -74,19 +74,19 @@ O interessante sobre a web é que você nunca sabe para quem está construindo a
 
 React Native é uma ótima biblioteca javaScript na qual podemos fazer Apps para Android e ios com uma única base de código. Este artigo explica todo o conceito básico para aprender o React Native. Esta será uma breve introdução de todos os tópicos do React Native.
 
-> [dev.to](dev.to/kukdoku/complete-react-native-one-view-55kl)
+> [dev.to](https://dev.to/kukdoku/complete-react-native-one-view-55kl)
 
 ####  **⚡ Como emular React Native no Windows sem Expo**
 
 Uma das piores experiências que alguém que está iniciando no desenvolvimento mobile com React Native, é fazer o procedimento de emular o React Native no windows e smartphone sem precisar de outras bibliotecas, ou seja, usando o React-native CLI e não o EXPO. Por esse motivo trazemos para vocês esse passo a passo de como emular o React Native usando o CLI.
 
-> [blog.geekhunter.com.br](blog.geekhunter.com.br/react-native-windows-emular-sem-expo/)
+> [blog.geekhunter.com.br](https://blog.geekhunter.com.br/react-native-windows-emular-sem-expo/)
 
 ####  **⚡ Expo - Atualizações automáticas do código com update Over-the-Air**
 
 OTA é um método de distribuição de novas atualizações de softwares que já estão instalados nos dispositivos do usuário final (em produção), de forma automática e sem intervenção do usuário. Neste artigo se aborda sobre as atualizações de Aplicativos em produção com expo-updates via update Over-the-Air criando um aplicativo para mostrar essa funcionalidade na prática.
 
-> [blog.rocketseat.com.br](blog.rocketseat.com.br/expo-atualizacoes-automaticas-do-codigo-com-update-over-the-air/)
+> [blog.rocketseat.com.br](https://blog.rocketseat.com.br/expo-atualizacoes-automaticas-do-codigo-com-update-over-the-air/)
 
 ---
 <br>
@@ -100,7 +100,7 @@ OTA é um método de distribuição de novas atualizações de softwares que já
 
 Veja como instalar o WSL2, um subsistema do Windows para linux, que permite que seja executado um ambiente `GNU/Linux` de forma fácil e leve no Windows 10.
 
-> [www.youtube.com](youtube.com/watch?v=hd6lxt5iVsg)
+> [www.youtube.com](https://youtube.com/watch?v=hd6lxt5iVsg)
 
 ####  **⚡ Como renomear vários arquivos de uma vez usando o terminal**
 
@@ -108,13 +108,13 @@ Suponha que seu projeto tenha uma base de código com 150 arquivos **JavaScript
 
 Se você utiliza Linux ou MacOS, basta instalar o pacote rename e fazer isso de maneira fácil e rápida.
 
-> [blog.rocketseat.com.br](blog.rocketseat.com.br/como-renomear-varios-arquivos-de-uma-vez-usando-o-terminal/)
+> [blog.rocketseat.com.br](https://blog.rocketseat.com.br/como-renomear-varios-arquivos-de-uma-vez-usando-o-terminal/)
 
 ####  **⚡ Melhores extensões para Visual Studio Code em 2021**
 
 Veja uma lista de extensões que não podem faltar no setup do seu VS Code.
 
-> [blog.geekhunter.com.br](blog.geekhunter.com.br/melhores-extensoes-para-visual-studio-code-em-2021/)
+> [blog.geekhunter.com.br](https://blog.geekhunter.com.br/melhores-extensoes-para-visual-studio-code-em-2021/)
 
 ---
 <br>
@@ -128,16 +128,16 @@ Veja uma lista de extensões que não podem faltar no setup do seu VS Code.
 
  Dário Mungoi, Guidione Machava, Marcelo Dauane e Mauro Banze partilham everything design, development, entrepreneurship and life em Português e em Inglês.
 
-> [open.spotify.com](open.spotify.com/show/3TT6TFHeUSL2qbMNUjVs3K)
+> [open.spotify.com](https://open.spotify.com/show/3TT6TFHeUSL2qbMNUjVs3K)
 
 ---
 <br>
 <br>
 
-Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [bit.ly/dscnewsletter-feedback](bit.ly/dscnewsletter-feedback)
+Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [bit.ly/dscnewsletter-feedback](https://bit.ly/dscnewsletter-feedback)
 
-Partilhe esta Issue com um amigo: [bit.ly/dscuem-newsletter9](bit.ly/dscuem-newsletter9)
+Partilhe esta Issue com um amigo: [bit.ly/dscuem-newsletter9](https://bit.ly/dscuem-newsletter9)
 
-Veja todas as edições da Newsletter pelo link: [bit.ly/dscuem-newsletter](bit.ly/dscuem-newsletter)
+Veja todas as edições da Newsletter pelo link: [bit.ly/dscuem-newsletter](https://bit.ly/dscuem-newsletter)
 
 Feito com 💙 pelo DSC UEM.
