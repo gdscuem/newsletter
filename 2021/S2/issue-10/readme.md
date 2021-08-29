@@ -17,7 +17,7 @@ Helloooo Malta!!!! Chegamos com mais uma Newsletter do GDSC UEM, e dessa vez a 
 
 Estamos aqui a cada três semanas trazendo conteúdo para te manter atualizado sobre aquilo que mais gostamos: Tecnologia e educação.
 
-Então já vai compartilhando esta edição da newsletter com o seu amigo que ficou de fora através do link: [https://bit.ly/dscuem-newsletter](https://bit.ly/dscuem-newsletter).
+Então já vai compartilhando esta edição da newsletter com o seu amigo que ficou de fora através do link: [https://bit.ly/gdscuem-issue-10](https://bit.ly/gdscuem-issue-10).
 
 ---
 
@@ -128,7 +128,7 @@ Quando o ES6 (EmcaScript 2015) foi lançado, ele introduziu um novo conjunto de 
 #### ✅ GDSC UEM Newsletter
 
 Agora você já pode receber a newsletter através do seu email, bastando apenas se subscrever pelo link abaixo.
-> [https://bit.ly/dscuem-newsletter-subs](https://bit.ly/dscuem-newsletter-subs)
+> [Mail list](https://gmail.us5.list-manage.com/subscribe?u=bbe58c81938691a75a8f6d316&id=710b96e38c)
 
 Nova identidade visual para a Newsletter, você pode conferir no Instagram do GDSC UEM.
 
@@ -142,11 +142,11 @@ Além do Notion, agora você pode ver a newsletter do GDSC também na página do
 
 Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [https://bit.ly/dscnewsletter-feedback](https://bit.ly/dscnewsletter-feedback)
 
-Partilhe esta Issue com um amigo: [https://bit.ly/dscuem-newsletter10](https://bit.ly/dscuem-newsletter10)
+Partilhe esta Issue com um amigo: [https://bit.ly/gdscuem-issue-10](https://bit.ly/gdscuem-issue-10)
 
-Veja todas as edições da Newsletter pelo link: [https://bit.ly/dscuem-newsletter](https://bit.ly/dscuem-newsletter)
+Veja todas as edições da Newsletter pelo link: [https://bit.ly/gdscuem-news](https://bit.ly/gdscuem-news)
 
-Veja a Newsletter no Github: [https://bit.ly/dscuem-newsletter-github](https://bit.ly/dscuem-newsletter-github)
+Veja a Newsletter no Github: [github.com](https://github.com/DSC-Eduardo-Mondlane-University/newsletter)
 
 Feito com 💙 pelo DSC UEM.
 <p align="center">
