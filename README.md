@@ -19,7 +19,8 @@ A `GDSC UEM Newsletter` é um projeto de partilha de conteúdo do `GDSC Eduardo 
 
 ## Edições
 **Issue**|**Destaque**| 
---------|----------------- 
+--------|-----------------
+**Issue #10** | `GDSC UEM Newsletter`: A Newsletter do GDSC UEm agora possui uma nova [identidade visual](https://www.instagram.com/dscuem/). Agora você pode receber a Newsletter no seu [e-mail](https://gmail.us5.list-manage.com/subscribe?u=bbe58c81938691a75a8f6d316&id=710b96e38c) e também ver a Newsletter no [github](https://github.com/DSC-Eduardo-Mondlane-University/newsletter). [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S2/issue-10)
 **Issue #9** | `The Cool Kids Podcast`: Muthiana Code é uma organização sem fins lucrativos que visa o empoderamento das mulheres e engajamento das mesmas nas áreas de STEM & Indústria. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-9)
 **Issue #8**| `Educar`: Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.[📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-8)
 **Issue #7** | `Inquéritos Salariai:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-7)
