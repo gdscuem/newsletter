@@ -31,7 +31,8 @@ A `GDSC UEM Newsletter` é um projeto de partilha de conteúdo do `GDSC Eduardo 
 **Issue #2**| `Muthiana Code:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-2)
 **Issue #1** | `PaymentsDS:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-1)
 ## Como contribuir?
-Você pode contribuir fazendo a palavra da Newsletter chegar até mais pessoas: https://bit.ly/dscuem-newsletter.
+Você pode contribuir fazendo a palavra da Newsletter chegar até mais pessoas: https://bit.ly/gdscuem-news.
+Receba a Newsletter no seu [e-mail](https://gmail.us5.list-manage.com/subscribe?u=bbe58c81938691a75a8f6d316&id=710b96e38c) 
 
 Dê seu feedback acerca do conteúdo da Newsletter [aqui](https://bit.ly/dscnewsletter-feedback).
 
