@@ -7,9 +7,9 @@
 
 <span align="center">
 
-[![Issue - #10](https://img.shields.io/badge/Issue-%2310-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
-[![Data: - 30-08-2021](https://img.shields.io/badge/Data%3A-30--08--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
-[![Destaque - Educar](https://img.shields.io/badge/Destaque-Newsletter-yellow)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
+[![Issue - #10](https://img.shields.io/badge/Issue-%2310-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Data: - 30-08-2021](https://img.shields.io/badge/Data%3A-30--08--2021-brightgreen)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Destaque - Educar](https://img.shields.io/badge/Destaque-Newsletter-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/gdscuem/tree/main/2021/)
 
 </span>
 
@@ -132,11 +132,11 @@ Agora você já pode receber a newsletter através do seu email, bastando apenas
 
 Nova identidade visual para a Newsletter, você pode conferir no Instagram do GDSC UEM.
 
-> [www.instagram.com](https://www.instagram.com/dscuem)
+> [www.instagram.com](https://www.instagram.comgdscuem)
 
 Além do Notion, agora você pode ver a newsletter do GDSC também na página do Github do GDSC UEM.
 
-> [github.com](https://github.com/DSC-Eduardo-Mondlane-University/newsletter)
+> [github.com](https://github.com/gdscuem)
 
 ---
 
@@ -146,13 +146,13 @@ Partilhe esta Issue com um amigo: [https://bit.ly/gdscuem-issue-10](https://bit.
 
 Veja todas as edições da Newsletter pelo link: [https://bit.ly/gdscuem-news](https://bit.ly/gdscuem-news)
 
-Veja a Newsletter no Github: [github.com](https://github.com/DSC-Eduardo-Mondlane-University/newsletter)
+Veja a Newsletter no Github: [github.com](https://github.com/gdscuem)
 
 Feito com 💙 pelo DSC UEM.
 <p align="center">
-  <a href="https://twitter.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-1DA1F2?logo=Twitter" alt="dscuem - Follow"></a>
-  <a href="https://instagram.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-E4405F?logo=Instagram" alt="dscuem - Follow"></a>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/DSC-Eduardo-Mondlane-University/newsletter?style=social">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DSC-Eduardo-Mondlane-University/newsletter?style=social">
+  <a href="https://twitter.comgdscuem"><img src="https://img.shields.io/badgegdscuem-Follow-1DA1F2?logo=Twitter" alt="dscuem - Follow"></a>
+  <a href="https://instagram.comgdscuem"><img src="https://img.shields.io/badgegdscuem-Follow-E4405F?logo=Instagram" alt="dscuem - Follow"></a>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gdscuem?style=social">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gdscuem?style=social">
 
 </p>
