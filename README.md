@@ -20,7 +20,7 @@ A `GDSC UEM Newsletter` é um projeto de partilha de conteúdo do `GDSC Eduardo 
 ## Edições
 **Issue**|**Destaque**| 
 --------|-----------------
-**Issue #10** | `GDSC UEM Newsletter`: A Newsletter do GDSC UEm agora possui uma nova [identidade visual](https://www.instagram.com/dscuem/). Agora você pode receber a Newsletter no seu [e-mail](https://gmail.us5.list-manage.com/subscribe?u=bbe58c81938691a75a8f6d316&id=710b96e38c) e também ver a Newsletter no [github](https://github.com/DSC-Eduardo-Mondlane-University/newsletter). [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S2/issue-10)
+**Issue #10** | `GDSC UEM Newsletter`: A Newsletter do GDSC UEm agora possui uma nova [identidade visual](https://www.instagram.com/gdscuem/). Agora você pode receber a Newsletter no seu [e-mail](https://gmail.us5.list-manage.com/subscribe?u=bbe58c81938691a75a8f6d316&id=710b96e38c) e também ver a Newsletter no [github](https://github.com/DSC-Eduardo-Mondlane-University/newsletter). [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S2/issue-10)
 **Issue #9** | `The Cool Kids Podcast`: Muthiana Code é uma organização sem fins lucrativos que visa o empoderamento das mulheres e engajamento das mesmas nas áreas de STEM & Indústria. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-9)
 **Issue #8**| `Educar`: Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma.[📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-8)
 **Issue #7** | `Inquéritos Salariai:` Educar é uma organização que visa despertar a vontade de estudar em milhares de pessoas, melhorando as suas habilidades. Contando com diversos cursos e instrutores, tudo acessível online através da sua plataforma. [📎 Ver mais...](https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/S1/issue-7)
@@ -39,8 +39,8 @@ Dê seu feedback acerca do conteúdo da Newsletter [aqui](https://bit.ly/dscnews
 ---
 Feito com 💙 pelo GDSC UEM.
 <p align="center">
-  <a href="https://twitter.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-1DA1F2?logo=Twitter" alt="dscuem - Follow"></a>
-  <a href="https://instagram.com/dscuem"><img src="https://img.shields.io/badge/dscuem-Follow-E4405F?logo=Instagram" alt="dscuem - Follow"></a>
+  <a href="https://twitter.com/gdscuem"><img src="https://img.shields.io/badge/gdscuem-Follow-1DA1F2?logo=Twitter" alt="dscuem - Follow"></a>
+  <a href="https://instagram.com/gdscuem"><img src="https://img.shields.io/badge/gdscuem-Follow-E4405F?logo=Instagram" alt="dscuem - Follow"></a>
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/DSC-Eduardo-Mondlane-University/newsletter?style=social">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DSC-Eduardo-Mondlane-University/newsletter?style=social">
 
