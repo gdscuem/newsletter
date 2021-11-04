@@ -8,9 +8,9 @@
 
 <span align="center">
 
-[![Issue - #10](https://img.shields.io/badge/Issue-%2310-2ea44f)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
-[![Data: - 30-08-2021](https://img.shields.io/badge/Data%3A-30--08--2021-brightgreen)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
-[![Destaque - Educar](https://img.shields.io/badge/Destaque-Educar-yellow)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/) [![Tipo  - Normal](https://img.shields.io/badge/Tipo_-Normal-blue)](https://https://github.com/DSC-Eduardo-Mondlane-University/newsletter/tree/main/2021/)
+[![Issue - #11](https://img.shields.io/badge/Issue-%2311-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Data: - 01-10-2021](https://img.shields.io/badge/Data%3A-01--10--2021-brightgreen)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Destaque - Hacktoberfest](https://img.shields.io/badge/Destaque-Hacktoberfest-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Dedicada](https://img.shields.io/badge/Tipo_-Dedicada-blue)](https://https://github.com/gdscuem/tree/main/2021/)
 
 </span>
 
