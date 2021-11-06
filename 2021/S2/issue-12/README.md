@@ -171,7 +171,7 @@ O DevFest é um evento organizado anualmente pelo Google Developers Group (GDG) 
 
 ---
 
-Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [https://bit.ly/dscnewsletter-feedback](bit.ly/dscnewsletter-feedback)
+Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [bit.ly/dscnewsletter-feedback](https://bit.ly/dscnewsletter-feedback)
 
 Receber a Newsletter por email: [bit.ly/gdscuem-news-sub](https://bit.ly/gdscuem-news-sub)
 
