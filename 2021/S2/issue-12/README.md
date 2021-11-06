@@ -25,6 +25,7 @@ Segurança Cibernética corresponde a um conjunto de acções planeadas levadas 
 
 Ataques cibernéticos são acções executadas por criminosos a conteúdos e infraestrutras ligadas ao espaço cibernético.
 A Segurança Cibernética revela-se importante a medida que permite evitar a ocorrência de incidentes variados que resultam no vazamento de dados e informações, paralização ou perda de rendimentos.
+_fontes: ([avast.com](https://www.avast.com/pt-br/business/resources/future-of-network-security#android), [gestaodesegurancaprivada.com.br](https://gestaodesegurancaprivada.com.br/seguranca-cibernetica-o-que-e-objetivos-importancia-medidas/))_
 
 ---
 
