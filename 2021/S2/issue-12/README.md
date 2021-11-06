@@ -167,13 +167,13 @@ _fontes: ([kaspersky.com](https://www.kaspersky.com.br/resource-center/definitio
 
 O DevFest é um evento organizado anualmente pelo Google Developers Group (GDG) a nível mundial para a partilha de conhecimentos é considerado a maior conferência sobre tecnologias Google, contando com diversos palestrantes das mais diversas áreas abordadas, como: Mobile, Tecnologias Web, UX/UI, IoT, Machine Learning, Análise de Dados, Carreira e Desenvolvimento Pessoal, Diversidade e Inclusão, entre outros.
 
-[DEVFEST 2021 | Google Developer Groups](https://gdg.community.dev/events/details/google-gdg-maputo-presents-devfest-2021/)
+🔗 [DEVFEST 2021 | Google Developer Groups](https://gdg.community.dev/events/details/google-gdg-maputo-presents-devfest-2021/)
 
 ---
 
-Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [https://bit.ly/dscnewsletter-feedback](https://bit.ly/dscnewsletter-feedback)
+Então malta, este é o conteúdo que preparamos para vós hoje, esperamos que contribua de forma positiva para dar um improvement nas vossas skills. Não se esqueçam de deixar o vosso feedback e sugestões de conteúdos que podem ser abordados aqui na Newsletter através do link: [https://bit.ly/dscnewsletter-feedback](bit.ly/dscnewsletter-feedback)
 
-Receber a Newsletter por email: [https://bit.ly/gdscuem-news-sub](https://bit.ly/gdscuem-news-sub)
+Receber a Newsletter por email: [bit.ly/gdscuem-news-sub](https://bit.ly/gdscuem-news-sub)
 
 ---
 
