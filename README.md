@@ -8,9 +8,9 @@
 
 <span align="center">
 
-[![Issue - #11](https://img.shields.io/badge/Issue-%2311-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
-[![Data: - 01-10-2021](https://img.shields.io/badge/Data%3A-01--10--2021-brightgreen)](https://https://github.com/gdscuem/tree/main/2021/)
-[![Destaque - Hacktoberfest](https://img.shields.io/badge/Destaque-Hacktoberfest-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Dedicada](https://img.shields.io/badge/Tipo_-Dedicada-blue)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Issue - #12](https://img.shields.io/badge/Issue-%2312-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Data: - 01-10-2021](https://img.shields.io/badge/Data%3A-06--10--2021-brightgreen)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Destaque - Hacktoberfest](https://img.shields.io/badge/Destaque-DevFest%2021-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Dedicada](https://img.shields.io/badge/Tipo_-Dedicada-blue)](https://https://github.com/gdscuem/tree/main/2021/)
 
 </span>
 
