@@ -86,7 +86,73 @@ _fontes: ([acloudguru.com](https://acloudguru.com/blog/engineering/domains-of-cy
 
 ---
 
-## 🔒 Como se proteger contra o crime cibernético
+## 🦠 7 tipos de ameaças à segurança cibernética
+
+Uma ameaça à segurança cibernética refere-se a qualquer possível ataque malicioso que visa acessar dados ilegalmente, interromper as operações digitais ou danificar informações. As ameaças cibernéticas podem se originar de vários atores, incluindo espiões corporativos, hacktivistas, grupos terroristas, nações-estado hostis, organizações criminosas, hackers solitários e funcionários insatisfeitos.
+
+Nos últimos anos, vários ataques cibernéticos de alto perfil resultaram na exposição de dados confidenciais. Por exemplo, a violação da Equifax em 2017 comprometeu os dados pessoais de cerca de 143 milhões de consumidores, incluindo datas de nascimento, endereços e números de seguridade social. Em 2018, a Marriott International divulgou que hackers acessaram seus servidores e roubaram os dados de cerca de 500 milhões de clientes. Em ambos os casos, a ameaça à segurança cibernética foi possibilitada pela falha da organização em implementar, testar e retestar as proteções técnicas, como criptografia, autenticação e firewalls.
+
+Os atacantes cibernéticos podem usar os dados confidenciais de um indivíduo ou empresa para roubar informações ou obter acesso às suas contas financeiras, entre outras ações potencialmente prejudiciais, razão pela qual os profissionais de segurança cibernética são essenciais para manter os dados privados protegidos.
+
+Os profissionais de segurança cibernética devem ter um conhecimento profundo dos seguintes tipos de ameaças à segurança cibernética:
+
+<details>
+<summary><b>1. Malware</b></summary>
+
+Malware é um software malicioso, como spyware, ransomware, vírus e worms. O malware é ativado quando um usuário clica em um link ou anexo malicioso, o que leva à instalação de um software perigoso. A Cisco relata que o malware, uma vez ativado, pode:
+
+- Bloqueiar o acesso aos principais componentes da rede (ransomware);
+- Instalar software prejudicial adicional;
+- Obter informações secretamente, transmitindo dados do disco rígido (spyware);
+- Interromper peças individuais, tornando o sistema inoperante.
+
+</details>
+
+<details>
+<summary><b>2. Emotet</b></summary>
+
+A Cybersecurity and Infrastructure Security Agency (CISA) descreve o Emotet como “um Trojan bancário modular avançado que funciona principalmente como um downloader ou dropper de outros Trojans bancários. Emotet continua a ser um dos malwares mais caros e destrutivos. ”
+
+</details>
+
+<details>
+<summary><b>3. Negação de serviço</b></summary>
+
+Uma negação de serviço (DoS) é um tipo de ataque cibernético que inunda um computador ou rede para que ele não possa responder às solicitações. Um DoS distribuído (DDoS) faz a mesma coisa, mas o ataque se origina de uma rede de computadores. Os cibercriminosos costumam usar um ataque de inundação para interromper o processo de “aperto de mão” e realizar um DoS. Várias outras técnicas podem ser usadas e alguns ciberataques usam o tempo que uma rede está desabilitada para lançar outros ataques. Um botnet é um tipo de DDoS no qual milhões de sistemas podem ser infectados com malware e controlados por um hacker, de acordo com Jeff Melnick da Netwrix, uma empresa de software de segurança de tecnologia da informação. Os botnets, às vezes chamados de sistemas zumbis, têm como alvo e sobrecarregam os recursos de processamento de um alvo. Os botnets estão em locais geográficos diferentes e são difíceis de rastrear.
+
+</details>
+
+<details>
+<summary><b>4. Man in the Middle</b></summary>
+
+Um ataque man-in-the-middle (MITM) ocorre quando os hackers se inserem em uma transação entre duas partes. Depois de interromper o tráfego, eles podem filtrar e roubar dados, de acordo com Cisco. Ataques MITM geralmente ocorrem quando um visitante usa uma rede Wi-Fi pública insegura. Os invasores se inserem entre o visitante e a rede e, em seguida, usam malware para instalar software e usar dados de forma maliciosa.
+
+</details>
+
+<details>
+<summary><b>5. Phishing</b></summary>
+
+Os ataques de phishing usam comunicação falsa, como um e-mail, para induzir o destinatário a abri-lo e seguir as instruções internas, como fornecer um número de cartão de crédito. “O objetivo é roubar dados confidenciais, como cartão de crédito e informações de login, ou instalar malware na máquina da vítima”, relata Cisco.
+
+</details>
+
+<details>
+<summary><b>6. SQL Injection</b></summary>
+
+Uma injeção de Structured Query Language (SQL) é um tipo de ataque cibernético que resulta da inserção de código malicioso em um servidor que usa SQL. Quando infectado, o servidor libera informações. Enviar o código malicioso pode ser tão simples quanto inseri-lo em uma caixa de pesquisa de um site vulnerável.
+
+</details>
+
+<details>
+<summary><b>7. Ataques de senha</b></summary>
+
+Com a senha certa, um invasor cibernético tem acesso a uma grande variedade de informações. A engenharia social é um tipo de ataque de senha que o Data Insider define como “uma estratégia que os ciberataques usam que depende muito da interação humana e frequentemente envolve enganar as pessoas para que violem as práticas de segurança padrão”. Outros tipos de ataques de senha incluem acesso a um banco de dados de senhas ou adivinhação total.
+
+</details>
+
+---
+
+## 🛡️ Como se proteger contra o crime cibernético
 
 Você pode pensar que a única forma de crime cibernético com a qual precisa se preocupar são os hackers que roubam suas informações financeiras. Mas pode não ser tão simples. O crime cibernético continua a evoluir, com novas ameaças surgindo a cada ano. Ao ouvir e ler sobre a variedade de crimes cibernéticos por aí, você pode ficar tentado a parar de usar a Internet por completo. É uma boa ideia saber como reconhecer o crime cibernético, que pode ser o primeiro passo para ajudar a proteger você e seus dados. Você pode tomar algumas precauções para ajudar a se proteger contra o crime cibernético.
 
