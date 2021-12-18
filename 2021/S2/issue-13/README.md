@@ -272,13 +272,16 @@ Os ataques de engenharia social podem envolver pessoas se passando por novos fun
         A manipulação de links é feita direcionando um usuário de forma fraudulenta a clicar em um link para um site falso. Isso pode ser feito por meio de diversos canais, incluindo e-mails, mensagens de texto e mídias sociais.
 
 </p>
-        </details>					<details ><summary><b>Uso de subdomínios</b></summary>						<p>
-            ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0af6ff9-c24d-4071-8da8-7b7af7ed38a3/Untitled.png)
+        </details>					<details ><summary><b>Uso de subdomínios</b></summary>	
+	<p>
+		<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0af6ff9-c24d-4071-8da8-7b7af7ed38a3/Untitled.png" />
+            
 
 </p>
         </details>					<details ><summary><b>URLs com erros ortográficos</b></summary>						<p>
             Quando um hacker compra domínios com variações na grafia de um domínio popular, como [facebok.com,](http://facebok.com/) [googlle.com](http://googlle.com/), [yahooo.com](http://yahooo.com/). Esta técnica também é conhecida como hijacking de URL ou typosquatting
-            ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d74c5cbd-b22a-4a67-a905-5a7acbd20b79/Untitled.png)
+	<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d74c5cbd-b22a-4a67-a905-5a7acbd20b79/Untitled.png" />
+            
 
 </p>
         </details>					<details ><summary><b>IDN homograph attacks</b></summary>						<p>
@@ -293,7 +296,8 @@ Os ataques de engenharia social podem envolver pessoas se passando por novos fun
 </p>
     </details>			<details ><summary><b>Vishing</b></summary>				<p>
         Vishing é a versão do phishing por telefone, ou um golpe de voz. Semelhante ao phishing e smishing de e-mail, o vishing foi projetado para induzir as vítimas a compartilhar informações pessoais, como números PIN, números de previdência social, códigos de segurança de cartão de crédito, senhas e outros dados pessoais. (Deloitte, 2019)
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a0d094f-34c2-4528-8ed6-f837b8f379a9/Untitled.png)
+        <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a0d094f-34c2-4528-8ed6-f837b8f379a9/Untitled.png" />
+	
 
 </p>
     </details>			<details ><summary><b>Falsificação de Sites</b></summary>				<p>
@@ -302,12 +306,14 @@ Os ataques de engenharia social podem envolver pessoas se passando por novos fun
 </p>
         </details>					<details ><summary><b>Cross Site Scripting</b></summary>						<p>
             Isso ocorre quando um hacker executa um script malicioso ou payload em um aplicativo da web ou site legítimo por meio da exploração de uma vulnerabilidade.
-            ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbbd85e9-d10e-4657-ad65-f6e3b69a48af/Untitled.png)
+        <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbbd85e9-d10e-4657-ad65-f6e3b69a48af/Untitled.png" />   
+	
 
 </p>
         </details>					<details ><summary><b>Website spoofing</b></summary>						<p>
         Isso é feito criando um site falso que se parece com um site legítimo que o usuário pretende acessar.
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ca0152d-4678-4aca-92c6-7a7a693eb735/Untitled.png)
+        <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ca0152d-4678-4aca-92c6-7a7a693eb735/Untitled.png" />
+	
 
 </p>
 </details>
